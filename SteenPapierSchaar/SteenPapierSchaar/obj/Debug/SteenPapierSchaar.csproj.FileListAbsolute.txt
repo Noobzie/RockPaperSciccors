@@ -1,0 +1,7 @@
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\bin\Debug\SteenPapierSchaar.exe.config
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\bin\Debug\SteenPapierSchaar.exe
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\bin\Debug\SteenPapierSchaar.pdb
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\obj\Debug\SteenPapierSchaar.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\obj\Debug\SteenPapierSchaar.exe
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\obj\Debug\SteenPapierSchaar.pdb
+C:\Users\Me\source\repos\SteenPapierSchaar\SteenPapierSchaar\obj\Debug\SteenPapierSchaar.csprojAssemblyReference.cache
